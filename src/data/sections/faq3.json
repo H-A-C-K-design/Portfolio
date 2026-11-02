@@ -1,0 +1,22 @@
+{
+  "title": "Frequently Asked Questions",
+  "description": "Key information about my experience, projects and areas of interest in cybersecurity.",
+  "items": [
+    {
+      "q": "What do you specialise in?",
+      "a": "I specialise in cybersecurity, ethical hacking and building tools for system protection. I create open-source projects in Python focused on network security and data protection."
+    },
+    {
+      "q": "What experience do you have?",
+      "a": "I have 19+ repositories on GitHub including Free-Pro-Tool for system protection and NET_SCAN for educational network scanning. I actively develop my skills through hands-on projects."
+    },
+    {
+      "q": "What technologies do you know?",
+      "a": "I primarily code in Python and HTML. I know network analysis tools, Linux/Kali Linux systems and ethical hacking techniques. I am also familiar with HIPAA compliance standards."
+    },
+    {
+      "q": "How can I contact you?",
+      "a": "You can email me at durgeshgaikwad363@gmail.com or visit my GitHub profile at github.com/H-A-C-K-design. I am happy to answer any questions."
+    }
+  ]
+}

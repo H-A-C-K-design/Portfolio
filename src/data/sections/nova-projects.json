@@ -1,0 +1,20 @@
+{
+  "title": "My Projects",
+  "description": "Projects focused on cybersecurity, network protection and tools for security professionals.",
+  "linkLabel": "View on GitHub",
+  "linkHref": "https://github.com/H-A-C-K-design",
+  "items": [
+    {
+      "category": "Cybersecurity Tool",
+      "title": "Free-Pro-Tool",
+      "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp",
+      "alt": "Free Pro Tool – cybersecurity protection toolkit"
+    },
+    {
+      "category": "Network Security",
+      "title": "NET_SCAN",
+      "image": "/assets/images/t001-nova/t001-nova-project-building.webp",
+      "alt": "NET_SCAN – network scanning and assessment utility"
+    }
+  ]
+}

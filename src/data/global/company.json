@@ -1,0 +1,35 @@
+{
+  "fullName": "Durgesh Gaikwad",
+  "name": "Durgesh",
+  "branding": {
+    "icon": "ph-shield-check",
+    "font": "Satoshi",
+    "tagline": "Cybersecurity Enthusiast & Developer",
+    "logoImage": "",
+    "favicon": "/favicon.svg",
+    "logoSuffix": ""
+  },
+  "address": "India",
+  "zipCode": "",
+  "city": "India",
+  "phone": "",
+  "email": "durgeshgaikwad363@gmail.com",
+  "hours": "",
+  "nip": "",
+  "krs": "",
+  "regon": "",
+  "siteUrl": "https://github.com/H-A-C-K-design",
+  "smtp": {
+    "smtpHost": "",
+    "smtpPort": 587,
+    "smtpUser": "",
+    "smtpPass": ""
+  },
+  "socials": {
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "twitter": "",
+    "github": "https://github.com/H-A-C-K-design"
+  }
+}

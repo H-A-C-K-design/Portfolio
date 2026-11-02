@@ -1,0 +1,96 @@
+{
+  "title": "Certifications & Achievements",
+  "description": "Real certificates earned from hackathons, competitions and bootcamps.",
+  "testimonials": [
+    {
+      "quote": "Participated in the NULL ORIGIN CTF 2026 — International 24-Hour Capture The Flag Competition. Organised by CyberHX in collaboration with INE, OffSec and Altered Security.",
+      "author": "Durgesh Amol Gaikwad",
+      "role": "NULL ORIGIN CTF 2026 · 19 Sep 2026",
+      "avatar": "https://i.pravatar.cc/150?u=durgesh-ctf"
+    },
+    {
+      "quote": "Participated in the Innovate 4 Impact: AI4SDG Global Hackathon 2026 organised by the Department of CSE & IEEE WIE Affinity Group, Bharati Vidyapeeth (DU) College of Engineering, Pune.",
+      "author": "Durgesh Gaikwad",
+      "role": "AI4SDG Hackathon 2026 · 12 Sep 2026",
+      "avatar": "https://i.pravatar.cc/150?u=durgesh-ai4sdg"
+    },
+    {
+      "quote": "Participated in the CTRL FREAK Hackathon powered by HackBriven at York IE, Ahmedabad. Recognised for outstanding performance, innovation and dedication.",
+      "author": "Durgesh Gaikwad",
+      "role": "CTRL FREAK Hackathon · Oct 2026",
+      "avatar": "https://i.pravatar.cc/150?u=durgesh-ctrlfreak"
+    },
+    {
+      "quote": "Participated in Jaipur Cybrathon 2K25 as a member of Team Secureshell. Recognised for innovation, teamwork and dedication. Organised by Suresh Gyan Vihar University.",
+      "author": "Durgesh Gaikwad",
+      "role": "Jaipur Cybrathon 2K25 · Team Secureshell",
+      "avatar": "https://i.pravatar.cc/150?u=durgesh-cybrathon"
+    },
+    {
+      "quote": "Completed the Illuminate Entrepreneurship Bootcamp at Bhonsala Military College in association with E-Cell, IIT Bombay. Recognised for successfully completing the programme.",
+      "author": "Durgesh Amol Gaikwad",
+      "role": "E-Cell IIT Bombay · Illuminate Bootcamp · Nov 2025",
+      "avatar": "https://i.pravatar.cc/150?u=durgesh-iitb"
+    },
+    {
+      "quote": "Participated in AgentX24 — the 24-Hour Hackathon organised by the Department of Computer Science & Engineering, Sanjivani University.",
+      "author": "Durgesh Gaikwad",
+      "role": "AgentX24 Hackathon · Sanjivani University · Aug 2026",
+      "avatar": "https://i.pravatar.cc/150?u=durgesh-agentx"
+    },
+    {
+      "quote": "Participated in Idea Presentation for Smart India Hackathon 2025 Internal Round with Team 'Farm Vision', Sanjivani University.",
+      "author": "Durgesh Gaikwad",
+      "role": "Smart India Hackathon 2025 · Team Farm Vision",
+      "avatar": "https://i.pravatar.cc/150?u=durgesh-sih"
+    }
+  ],
+  "marquee": {
+    "title": "Certifications & Achievements",
+    "description": "Real certificates earned from hackathons, competitions and bootcamps.",
+    "testimonials": [
+      {
+        "quote": "NULL ORIGIN CTF 2026 — International 24-Hour Capture The Flag Competition by CyberHX.",
+        "author": "Durgesh Amol Gaikwad",
+        "role": "NULL ORIGIN CTF 2026 · 19 Sep 2026",
+        "avatar": "https://i.pravatar.cc/150?u=durgesh-ctf"
+      },
+      {
+        "quote": "Innovate 4 Impact: AI4SDG Global Hackathon 2026 — IEEE WIE Affinity Group, BVU COE Pune.",
+        "author": "Durgesh Gaikwad",
+        "role": "AI4SDG Hackathon 2026 · 12 Sep 2026",
+        "avatar": "https://i.pravatar.cc/150?u=durgesh-ai4sdg"
+      },
+      {
+        "quote": "CTRL FREAK Hackathon powered by HackBriven — recognised for outstanding performance and innovation.",
+        "author": "Durgesh Gaikwad",
+        "role": "CTRL FREAK Hackathon · Oct 2026",
+        "avatar": "https://i.pravatar.cc/150?u=durgesh-ctrlfreak"
+      },
+      {
+        "quote": "Jaipur Cybrathon 2K25 — Team Secureshell, Suresh Gyan Vihar University.",
+        "author": "Durgesh Gaikwad",
+        "role": "Jaipur Cybrathon 2K25",
+        "avatar": "https://i.pravatar.cc/150?u=durgesh-cybrathon"
+      },
+      {
+        "quote": "Illuminate Entrepreneurship Bootcamp — E-Cell, IIT Bombay at Bhonsala Military College.",
+        "author": "Durgesh Amol Gaikwad",
+        "role": "E-Cell IIT Bombay · Nov 2025",
+        "avatar": "https://i.pravatar.cc/150?u=durgesh-iitb"
+      },
+      {
+        "quote": "AgentX24 24-Hour Hackathon — Sanjivani University, Department of CSE.",
+        "author": "Durgesh Gaikwad",
+        "role": "AgentX24 · Aug 2026",
+        "avatar": "https://i.pravatar.cc/150?u=durgesh-agentx"
+      },
+      {
+        "quote": "Smart India Hackathon 2025 — Team Farm Vision, Sanjivani University Internal Round.",
+        "author": "Durgesh Gaikwad",
+        "role": "SIH 2025 · Team Farm Vision",
+        "avatar": "https://i.pravatar.cc/150?u=durgesh-sih"
+      }
+    ]
+  }
+}

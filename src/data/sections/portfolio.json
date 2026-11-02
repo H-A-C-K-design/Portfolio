@@ -1,0 +1,60 @@
+{
+  "title": "My Projects",
+  "description": "Cybersecurity tools and projects I've built and contributed to.",
+  "tagline": "Projects",
+  "variants": {
+    "bento": {
+      "title": "My Projects",
+      "description": "Explore my cybersecurity tools and open-source contributions on GitHub.",
+      "tagline": "Projects"
+    },
+    "carousel": {
+      "title": "Project Gallery",
+      "description": "Browse through my cybersecurity and development projects.",
+      "tagline": "Portfolio",
+      "ariaPrevProject": "Previous project",
+      "ariaNextProject": "Next project"
+    },
+    "categorized": {
+      "title": "My Portfolio",
+      "description": "Browse my catalogue of cybersecurity and development projects.",
+      "tagline": "Projects"
+    },
+    "marquee": {
+      "title": "My Projects",
+      "description": "Explore my latest cybersecurity and development work.",
+      "tagline": "Portfolio"
+    },
+    "doubleMarquee": {
+      "title": "My Projects",
+      "description": "Discover my cybersecurity projects flowing in multiple directions.",
+      "tagline": "Portfolio"
+    },
+    "masonry": {
+      "title": "Latest Projects",
+      "description": "My recent cybersecurity and development work, delivered with precision.",
+      "tagline": "Portfolio"
+    }
+  },
+  "categories": ["All", "Cybersecurity", "Network Security", "Healthcare"],
+  "items": [
+    {
+      "title": "Free-Pro-Tool",
+      "category": "Cybersecurity",
+      "img": "/assets/images/t001-nova/t001-nova-project-laptop.webp",
+      "span": "md:col-span-2 md:row-span-1",
+      "height": "h-[400px]",
+      "href": "https://github.com/H-A-C-K-design/Free-pro-tool",
+      "description": "Python-based cybersecurity tool focused on computer protection, password practices and system defence."
+    },
+    {
+      "title": "NET_SCAN",
+      "category": "Network Security",
+      "img": "/assets/images/t001-nova/t001-nova-project-building.webp",
+      "span": "md:col-span-1 md:row-span-1",
+      "height": "h-[400px]",
+      "href": "https://github.com/H-A-C-K-design/NET_SCAN",
+      "description": "Python utility for educational network scanning and authorised security assessments."
+    }
+  ]
+}

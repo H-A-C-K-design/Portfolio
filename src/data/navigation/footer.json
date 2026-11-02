@@ -1,0 +1,53 @@
+{
+  "about": "Cybersecurity enthusiast and developer. Building security tools, exploring ethical hacking and protecting systems.",
+  "contactTitle": "Contact",
+  "copyrightText": "All rights reserved.",
+  "attribution": {
+    "label": "Portfolio by Durgesh Gaikwad",
+    "href": "https://github.com/H-A-C-K-design",
+    "prefix": "By:",
+    "linkLabel": "Durgesh Gaikwad"
+  },
+  "aria": {
+    "quickNav": "Quick links",
+    "legalDocs": "Legal documents"
+  },
+  "promo": {
+    "tagline": "Open to opportunities",
+    "title": "Let's collaborate",
+    "description": "Interested in cybersecurity projects, internships or collaboration? Get in touch.",
+    "ctaLabel": "Contact me",
+    "ctaHref": "mailto:durgeshgaikwad363@gmail.com",
+    "imageSrc": "/assets/placeholders/image-landscape.svg",
+    "imageAlt": "Contact Durgesh Gaikwad"
+  },
+  "columns": [
+    {
+      "title": "Quick Links",
+      "links": [
+        { "label": "About me", "href": "#about" },
+        { "label": "Skills", "href": "#skills" },
+        { "label": "Projects", "href": "#projects" },
+        { "label": "Certifications", "href": "#certifications" }
+      ]
+    },
+    {
+      "title": "Connect",
+      "links": [
+        { "label": "GitHub", "href": "https://github.com/H-A-C-K-design" },
+        { "label": "Email", "href": "mailto:durgeshgaikwad363@gmail.com" },
+        { "label": "Privacy Policy", "href": "/polityka-prywatnosci/" }
+      ]
+    }
+  ],
+  "newsletter": {
+    "title": "Stay Updated",
+    "description": "Get notified about new cybersecurity projects and updates.",
+    "placeholder": "Your email address",
+    "consent": "I agree to the terms and privacy policy."
+  },
+  "legal": [
+    { "label": "Privacy Policy", "href": "/polityka-prywatnosci/" },
+    { "label": "Cookies", "href": "/cookies/" }
+  ]
+}

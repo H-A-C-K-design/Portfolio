@@ -1,0 +1,32 @@
+{
+  "title": "My Skills",
+  "description": "Areas of expertise and technologies I work with in cybersecurity and software development.",
+  "linkLabel": "View my GitHub",
+  "linkHref": "https://github.com/H-A-C-K-design",
+  "items": [
+    {
+      "number": "01.",
+      "icon": "shield-check",
+      "title": "Cybersecurity",
+      "description": "Protecting computer systems, analysing threats and implementing security mechanisms. Specialising in ethical hacking and penetration testing techniques."
+    },
+    {
+      "number": "02.",
+      "icon": "terminal-window",
+      "title": "Python Development",
+      "description": "Building security tools, automation scripts and Python applications. Hands-on experience through open-source projects."
+    },
+    {
+      "number": "03.",
+      "icon": "network",
+      "title": "Network Security",
+      "description": "Network scanning, traffic analysis and vulnerability identification. Familiar with networking protocols and tools for authorised security assessments."
+    },
+    {
+      "number": "04.",
+      "icon": "lock",
+      "title": "System Defence",
+      "description": "Building defensive systems, secure password management and safe coding practices. Awareness of compliance standards including HIPAA."
+    }
+  ]
+}

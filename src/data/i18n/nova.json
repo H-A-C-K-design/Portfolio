@@ -1,0 +1,284 @@
+{
+  "pl": {
+    "page": {
+      "title": "Durgesh Gaikwad | Portfolio Cybersecurity",
+      "description": "Entuzjasta cyberbezpieczeństwa i programista. Projekty z zakresu etycznego hackingu, skanowania sieci i bezpieczeństwa systemów.",
+      "heading": "Cybersecurity Portfolio"
+    },
+    "demoBanner": {
+      "label": "Portfolio Durgesh Gaikwad – Cybersecurity Enthusiast.",
+      "downloadLabel": "GitHub",
+      "downloadHref": "https://github.com/H-A-C-K-design",
+      "customizeLabel": "Napisz do mnie",
+      "customizeHref": "mailto:durgeshgaikwad363@gmail.com"
+    },
+    "navigation": {
+      "menu": [
+        { "label": "O mnie", "href": "#o-mnie" },
+        { "label": "Umiejętności", "href": "#umiejetnosci" },
+        { "label": "Projekty", "href": "#projekty" },
+        { "label": "Certyfikaty", "href": "#certyfikaty" }
+      ],
+      "cta": {
+        "label": "Skontaktuj się",
+        "hoverLabel": "Porozmawiajmy",
+        "href": "mailto:durgeshgaikwad363@gmail.com"
+      },
+      "aria": {
+        "menuOpen": "Otwórz menu nawigacji",
+        "menuClose": "Zamknij menu",
+        "menuExpand": "Rozwiń podmenu",
+        "navMain": "Nawigacja główna",
+        "drawer": "Menu nawigacji"
+      },
+      "languageLabel": "Wybierz język"
+    },
+    "sections": {
+      "nova-hero-wireframe": {
+        "eyebrow": "CYBERBEZPIECZEŃSTWO / ETYCZNY HACKING / OCHRONA SIECI",
+        "heading": "Witaj, jestem",
+        "headingAccent": "Durgesh Gaikwad",
+        "description": "Entuzjasta cyberbezpieczeństwa i programista. Tworzę narzędzia bezpieczeństwa, skanuję sieci i uczę się, jak chronić systemy przed zagrożeniami.",
+        "primaryCTA": { "label": "Zobacz projekty", "href": "#projekty" },
+        "secondaryCTA": { "label": "Skontaktuj się", "href": "mailto:durgeshgaikwad363@gmail.com" },
+        "trustedBy": "Technologie",
+        "trustItems": ["Python", "Linux", "Kali", "GitHub", "Network"],
+        "image": "/assets/images/t001-nova/t001-nova-hero.webp",
+        "imageAlt": "Durgesh Gaikwad – Cybersecurity Portfolio",
+        "stats": [
+          { "value": "19+", "label": "Projektów na GitHub" },
+          { "value": "2024", "label": "Rok aktywny" },
+          { "value": "3+", "label": "Kluczowe projekty" },
+          { "value": "100%", "label": "Pasja do bezpieczeństwa" }
+        ]
+      },
+      "nova-projects": {
+        "title": "Moje projekty",
+        "description": "Projekty skupione na cyberbezpieczeństwie, ochronie sieci i narzędziach dla profesjonalistów ds. bezpieczeństwa.",
+        "linkLabel": "Zobacz na GitHub",
+        "linkHref": "https://github.com/H-A-C-K-design",
+        "items": [
+          { "category": "Cybersecurity Tool", "title": "Free-Pro-Tool", "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp", "alt": "Free Pro Tool – narzędzie do cyberbezpieczeństwa" },
+          { "category": "Network Security", "title": "NET_SCAN", "image": "/assets/images/t001-nova/t001-nova-project-building.webp", "alt": "NET_SCAN – narzędzie do skanowania sieci" }
+        ]
+      },
+      "nova-services": {
+        "title": "Moje umiejętności",
+        "description": "Obszary specjalizacji i technologie, z którymi pracuję na co dzień w dziedzinie cyberbezpieczeństwa.",
+        "linkLabel": "Zobacz mój GitHub",
+        "linkHref": "https://github.com/H-A-C-K-design",
+        "items": [
+          { "number": "01.", "icon": "shield-check", "title": "Cybersecurity", "description": "Ochrona systemów komputerowych, analiza zagrożeń i implementacja mechanizmów bezpieczeństwa. Specjalizacja w etycznym hackingu i testach penetracyjnych." },
+          { "number": "02.", "icon": "terminal-window", "title": "Python Development", "description": "Tworzenie narzędzi bezpieczeństwa, skryptów automatyzujących i aplikacji w języku Python. Praktyczne doświadczenie w projektach open-source." },
+          { "number": "03.", "icon": "network", "title": "Network Security", "description": "Skanowanie sieci, analiza ruchu sieciowego i identyfikacja podatności. Znajomość protokołów sieciowych i narzędzi takich jak Nmap." },
+          { "number": "04.", "icon": "lock", "title": "System Defence", "description": "Budowanie systemów obronnych, zarządzanie hasłami i praktyki bezpiecznego kodowania. Świadomość HIPAA i standardów compliance." }
+        ]
+      },
+      "nova-team": {
+        "title": "O mnie",
+        "description": "Jestem Durgesh Gaikwad, urodzony 30 listopada 2006 roku. Pasjonat cyberbezpieczeństwa z Indii. Rozwijam swoje umiejętności w dziedzinie etycznego hackingu, bezpieczeństwa sieci i tworzenia narzędzi ochrony systemów. Aktywnie uczestniczę w projektach open-source na GitHubie.",
+        "image": "/assets/images/t001-nova/t001-nova-about-team.webp",
+        "imageAlt": "Durgesh Gaikwad – Cybersecurity Enthusiast",
+        "checks": ["Etyczny Hacking", "Bezpieczeństwo Sieci", "Programowanie Python"],
+        "teamCount": "19+",
+        "teamLabel": "repozytoriów na GitHub",
+        "teamAriaLabel": "O Durgesh Gaikwad",
+        "teamAvatars": [
+          { "src": "/assets/images/t001-nova/t001-nova-avatar-01@220.webp", "alt": "Durgesh Gaikwad" }
+        ],
+        "buttonLabel": "Zobacz GitHub",
+        "buttonHref": "https://github.com/H-A-C-K-design"
+      },
+      "faq3": {
+        "title": "Pytania i odpowiedzi",
+        "description": "Najważniejsze informacje o moim doświadczeniu, projektach i obszarach zainteresowań.",
+        "tagline": "FAQ",
+        "items": [
+          { "q": "Czym się zajmujesz?", "a": "Specjalizuję się w cyberbezpieczeństwie, etycznym hackingu i tworzeniu narzędzi do ochrony systemów. Tworzę projekty open-source w Pythonie skupione na bezpieczeństwie sieci i ochronie danych." },
+          { "q": "Jakie masz doświadczenie?", "a": "Mam 19+ repozytoriów na GitHubie, w tym narzędzia takie jak Free-Pro-Tool do ochrony systemu i NET_SCAN do edukacyjnego skanowania sieci. Aktywnie rozwijam swoje umiejętności w dziedzinie cyberbezpieczeństwa." },
+          { "q": "Jakie technologie znasz?", "a": "Programuję głównie w Python i HTML. Znam narzędzia do analizy sieci, systemy Linux/Kali Linux oraz techniki etycznego hackingu. Interesuję się też standardami compliance jak HIPAA." },
+          { "q": "Jak się z tobą skontaktować?", "a": "Możesz napisać do mnie na email: durgeshgaikwad363@gmail.com lub odwiedzić mój profil GitHub: github.com/H-A-C-K-design. Chętnie odpowiem na wszelkie pytania." }
+        ]
+      },
+      "testimonial-v2": {
+        "title": "Certyfikaty i osiągnięcia",
+        "description": "Moje certyfikaty potwierdzające wiedzę i umiejętności w dziedzinie cyberbezpieczeństwa.",
+        "tagline": "Certyfikaty",
+        "avatarAltPrefix": "Certyfikat",
+        "items": [
+          { "quote": "Certyfikat z cyberbezpieczeństwa potwierdzający znajomość zasad ochrony systemów informatycznych, analizy zagrożeń i najlepszych praktyk w dziedzinie bezpieczeństwa.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "Cybersecurity Certificate", "avatar": "https://i.pravatar.cc/150?u=durgesh-gaikwad" },
+          { "quote": "Praktyczne szkolenie z etycznego hackingu obejmujące techniki testów penetracyjnych, analizy sieci i identyfikacji podatności w systemach.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "Ethical Hacking Training", "avatar": "https://i.pravatar.cc/150?u=durgesh-hack" },
+          { "quote": "Ukończone projekty open-source na GitHub: Free-Pro-Tool, NET_SCAN i Health-Care-System – demonstrują praktyczne umiejętności w cybersecurity i programowaniu.", "author": "GitHub Portfolio", "initials": "GH", "role": "19+ Public Repositories", "avatar": "https://i.pravatar.cc/150?u=durgesh-github" }
+        ]
+      }
+    },
+    "footer": {
+      "eyebrow": "Zainteresowany współpracą?",
+      "heading": "Skontaktuj się ze mną",
+      "description": "Chętnie porozmawiam o cyberbezpieczeństwie, projektach i możliwościach współpracy.",
+      "primaryLabel": "Napisz email",
+      "primaryHref": "mailto:durgeshgaikwad363@gmail.com",
+      "secondaryLabel": "GitHub",
+      "secondaryHref": "https://github.com/H-A-C-K-design",
+      "legalLinks": [
+        { "label": "Polityka prywatności", "href": "/polityka-prywatnosci/" },
+        { "label": "Cookies", "href": "/cookies/" }
+      ],
+      "footerLinks": [
+        { "label": "O mnie", "href": "#o-mnie" },
+        { "label": "Umiejętności", "href": "#umiejetnosci" },
+        { "label": "Projekty", "href": "#projekty" },
+        { "label": "Certyfikaty", "href": "#certyfikaty" }
+      ],
+      "ariaLegal": "Dokumenty prawne",
+      "ariaNavigation": "Nawigacja stopki",
+      "copyright": "Wszelkie prawa zastrzeżone.",
+      "attributionPrefix": "Portfolio: ",
+      "attributionLinkLabel": "Durgesh Gaikwad",
+      "attributionLinkHref": "https://github.com/H-A-C-K-design"
+    }
+  },
+  "en": {
+    "page": {
+      "title": "Durgesh Gaikwad | Cybersecurity Portfolio",
+      "description": "Cybersecurity enthusiast and developer. Skilled in network scanning, ethical hacking tools, and secure system design.",
+      "heading": "Cybersecurity Portfolio"
+    },
+    "demoBanner": {
+      "label": "Portfolio of Durgesh Gaikwad – Cybersecurity Enthusiast.",
+      "downloadLabel": "GitHub",
+      "downloadHref": "https://github.com/H-A-C-K-design",
+      "customizeLabel": "Contact me",
+      "customizeHref": "mailto:durgeshgaikwad363@gmail.com"
+    },
+    "navigation": {
+      "menu": [
+        { "label": "About me", "href": "#about" },
+        { "label": "Skills", "href": "#skills" },
+        { "label": "Projects", "href": "#projects" },
+        { "label": "Certifications", "href": "#certifications" }
+      ],
+      "cta": {
+        "label": "Contact me",
+        "hoverLabel": "Let's connect",
+        "href": "mailto:durgeshgaikwad363@gmail.com"
+      },
+      "aria": {
+        "menuOpen": "Open navigation menu",
+        "menuClose": "Close menu",
+        "menuExpand": "Expand submenu",
+        "navMain": "Main navigation",
+        "drawer": "Navigation menu"
+      },
+      "languageLabel": "Choose language"
+    },
+    "sections": {
+      "nova-hero-wireframe": {
+        "eyebrow": "CYBERSECURITY / ETHICAL HACKING / NETWORK DEFENCE",
+        "heading": "Hi, I'm",
+        "headingAccent": "Durgesh Gaikwad",
+        "description": "Cybersecurity enthusiast and developer passionate about protecting systems, building security tools, and learning ethical hacking techniques.",
+        "primaryCTA": { "label": "View my projects", "href": "#projects" },
+        "secondaryCTA": { "label": "Get in touch", "href": "mailto:durgeshgaikwad363@gmail.com" },
+        "trustedBy": "Technologies",
+        "trustItems": ["Python", "Linux", "Kali", "GitHub", "Network"],
+        "image": "/assets/images/t001-nova/t001-nova-hero.webp",
+        "imageAlt": "Durgesh Gaikwad – Cybersecurity Portfolio",
+        "stats": [
+          { "value": "19+", "label": "GitHub repositories" },
+          { "value": "2024", "label": "Active since" },
+          { "value": "3+", "label": "Key projects" },
+          { "value": "100%", "label": "Passion for security" }
+        ]
+      },
+      "nova-projects": {
+        "title": "My Projects",
+        "description": "Projects focused on cybersecurity, network protection and tools for security professionals.",
+        "linkLabel": "View on GitHub",
+        "linkHref": "https://github.com/H-A-C-K-design",
+        "items": [
+          { "category": "Cybersecurity Tool", "title": "Free-Pro-Tool", "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp", "alt": "Free Pro Tool – cybersecurity protection toolkit" },
+          { "category": "Network Security", "title": "NET_SCAN", "image": "/assets/images/t001-nova/t001-nova-project-building.webp", "alt": "NET_SCAN – network scanning utility" }
+        ]
+      },
+      "nova-services": {
+        "title": "My Skills",
+        "description": "Areas of expertise and technologies I work with in the field of cybersecurity and software development.",
+        "linkLabel": "View my GitHub",
+        "linkHref": "https://github.com/H-A-C-K-design",
+        "items": [
+          { "number": "01.", "icon": "shield-check", "title": "Cybersecurity", "description": "Protecting computer systems, analysing threats and implementing security mechanisms. Specialising in ethical hacking and penetration testing techniques." },
+          { "number": "02.", "icon": "terminal-window", "title": "Python Development", "description": "Building security tools, automation scripts and applications in Python. Hands-on experience through open-source projects on GitHub." },
+          { "number": "03.", "icon": "network", "title": "Network Security", "description": "Network scanning, traffic analysis and vulnerability identification. Familiar with networking protocols and tools like Nmap for authorised assessments." },
+          { "number": "04.", "icon": "lock", "title": "System Defence", "description": "Building defensive systems, password management and secure coding practices. Awareness of compliance standards including HIPAA." }
+        ]
+      },
+      "nova-team": {
+        "title": "About Me",
+        "description": "I'm Durgesh Gaikwad, born on 30 November 2006. A cybersecurity enthusiast from India who is passionate about ethical hacking, network security and building security tools. I actively contribute to open-source projects on GitHub and continuously expand my knowledge in the cybersecurity domain.",
+        "image": "/assets/images/t001-nova/t001-nova-about-team.webp",
+        "imageAlt": "Durgesh Gaikwad – Cybersecurity Enthusiast",
+        "checks": ["Ethical Hacking", "Network Security", "Python Programming"],
+        "teamCount": "19+",
+        "teamLabel": "repositories on GitHub",
+        "teamAriaLabel": "About Durgesh Gaikwad",
+        "teamAvatars": [
+          { "src": "/assets/images/t001-nova/t001-nova-avatar-01@220.webp", "alt": "Durgesh Gaikwad" }
+        ],
+        "buttonLabel": "View GitHub",
+        "buttonHref": "https://github.com/H-A-C-K-design"
+      },
+      "faq3": {
+        "title": "Frequently Asked Questions",
+        "description": "Key information about my experience, projects and areas of interest.",
+        "tagline": "FAQ",
+        "items": [
+          { "q": "What do you specialise in?", "a": "I specialise in cybersecurity, ethical hacking and building tools for system protection. I create open-source projects in Python focused on network security and data protection." },
+          { "q": "What experience do you have?", "a": "I have 19+ repositories on GitHub, including tools like Free-Pro-Tool for system protection and NET_SCAN for educational network scanning. I actively develop my cybersecurity skills through hands-on projects." },
+          { "q": "What technologies do you know?", "a": "I primarily code in Python and HTML. I know network analysis tools, Linux/Kali Linux systems and ethical hacking techniques. I am also familiar with compliance standards like HIPAA." },
+          { "q": "How can I contact you?", "a": "You can email me at durgeshgaikwad363@gmail.com or visit my GitHub profile at github.com/H-A-C-K-design. I am happy to answer any questions you have." }
+        ]
+      },
+      "testimonial-v2": {
+        "title": "Certifications & Achievements",
+        "description": "My certifications validating knowledge and skills in the cybersecurity domain.",
+        "tagline": "Certifications",
+        "avatarAltPrefix": "Certificate",
+        "items": [
+          { "quote": "NULL ORIGIN CTF 2026 — International 24-Hour Capture The Flag Competition. Organised by CyberHX in collaboration with INE, OffSec and Altered Security.", "author": "Durgesh Amol Gaikwad", "initials": "DG", "role": "NULL ORIGIN CTF 2026 · 19 Sep 2026", "avatar": "https://i.pravatar.cc/150?u=durgesh-ctf" },
+          { "quote": "Innovate 4 Impact: AI4SDG Global Hackathon 2026 — IEEE WIE Affinity Group, Bharati Vidyapeeth (DU) College of Engineering, Pune.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "AI4SDG Hackathon 2026 · 12 Sep 2026", "avatar": "https://i.pravatar.cc/150?u=durgesh-ai4sdg" },
+          { "quote": "CTRL FREAK Hackathon powered by HackBriven at York IE, Ahmedabad — recognised for outstanding performance, innovation and dedication.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "CTRL FREAK Hackathon · Oct 2026", "avatar": "https://i.pravatar.cc/150?u=durgesh-ctrlfreak" },
+          { "quote": "Jaipur Cybrathon 2K25 — member of Team Secureshell. Recognised for innovation, teamwork and dedication by Suresh Gyan Vihar University.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "Jaipur Cybrathon 2K25", "avatar": "https://i.pravatar.cc/150?u=durgesh-cybrathon" },
+          { "quote": "Illuminate Entrepreneurship Bootcamp — successfully completed at Bhonsala Military College in association with E-Cell, IIT Bombay.", "author": "Durgesh Amol Gaikwad", "initials": "DG", "role": "E-Cell IIT Bombay · Nov 2025", "avatar": "https://i.pravatar.cc/150?u=durgesh-iitb" },
+          { "quote": "AgentX24 — 24-Hour Hackathon organised by the Department of Computer Science & Engineering, Sanjivani University.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "AgentX24 Hackathon · Aug 2026", "avatar": "https://i.pravatar.cc/150?u=durgesh-agentx" },
+          { "quote": "Smart India Hackathon 2025 Internal Round — Team Farm Vision, Sanjivani University. Idea Presentation on 13–14 September 2025.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "Smart India Hackathon 2025", "avatar": "https://i.pravatar.cc/150?u=durgesh-sih" }
+        ]
+      }
+    },
+    "footer": {
+      "eyebrow": "Interested in working together?",
+      "heading": "Get in touch",
+      "description": "I'd love to chat about cybersecurity, projects and collaboration opportunities.",
+      "primaryLabel": "Send an email",
+      "primaryHref": "mailto:durgeshgaikwad363@gmail.com",
+      "secondaryLabel": "GitHub",
+      "secondaryHref": "https://github.com/H-A-C-K-design",
+      "legalLinks": [
+        { "label": "Privacy policy", "href": "/polityka-prywatnosci/" },
+        { "label": "Cookies", "href": "/cookies/" }
+      ],
+      "footerLinks": [
+        { "label": "About me", "href": "#about" },
+        { "label": "Skills", "href": "#skills" },
+        { "label": "Projects", "href": "#projects" },
+        { "label": "Certifications", "href": "#certifications" }
+      ],
+      "ariaLegal": "Legal documents",
+      "ariaNavigation": "Footer navigation",
+      "copyright": "All rights reserved.",
+      "attributionPrefix": "Portfolio: ",
+      "attributionLinkLabel": "Durgesh Gaikwad",
+      "attributionLinkHref": "https://github.com/H-A-C-K-design"
+    }
+  }
+}

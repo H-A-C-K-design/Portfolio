@@ -1,0 +1,13 @@
+{
+  "defaultTitle": "Durgesh Gaikwad | Cybersecurity Portfolio",
+  "defaultDescription": "Cybersecurity enthusiast and developer. Skilled in network scanning, ethical hacking tools, and secure system design. Explore my projects and certifications.",
+  "defaultOgImage": "/og-image.png",
+  "index": true,
+  "follow": true,
+  "analytics": {
+    "googleAnalyticsId": "",
+    "googleTagManagerId": "",
+    "facebookPixelId": "",
+    "clarityId": ""
+  }
+}

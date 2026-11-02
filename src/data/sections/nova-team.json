@@ -1,0 +1,15 @@
+{
+  "title": "About Me",
+  "description": "I'm Durgesh Gaikwad, born on 30 November 2006. A cybersecurity enthusiast from India passionate about ethical hacking, network security and building security tools. I actively contribute to open-source projects on GitHub.",
+  "image": "/assets/images/t001-nova/t001-nova-about-team.webp",
+  "imageAlt": "Durgesh Gaikwad – Cybersecurity Enthusiast",
+  "checks": ["Ethical Hacking", "Network Security", "Python Programming"],
+  "teamCount": "19+",
+  "teamLabel": "repositories on GitHub",
+  "teamAriaLabel": "About Durgesh Gaikwad",
+  "teamAvatars": [
+    { "src": "/assets/images/t001-nova/t001-nova-avatar-01@220.webp", "alt": "Durgesh Gaikwad" }
+  ],
+  "buttonLabel": "View GitHub",
+  "buttonHref": "https://github.com/H-A-C-K-design"
+}

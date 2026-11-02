@@ -1,0 +1,21 @@
+{
+  "menu": [
+    { "label": "About me", "href": "#about" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Certifications", "href": "#certifications" }
+  ],
+  "cta": {
+    "label": "Contact me",
+    "href": "mailto:durgeshgaikwad363@gmail.com",
+    "prefix": "",
+    "hoverLabel": "Let's connect"
+  },
+  "aria": {
+    "menuOpen": "Navigation menu",
+    "menuClose": "Close menu",
+    "menuExpand": "Expand subpages",
+    "navMain": "Main navigation",
+    "drawer": "Navigation menu"
+  }
+}
