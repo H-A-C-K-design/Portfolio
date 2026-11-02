@@ -6,7 +6,7 @@
   "primaryCTA": { "label": "Rozpocznij projekt", "href": "/kontakt/" },
   "secondaryCTA": { "label": "Poznaj nas", "href": "/o-nas/" },
   "trustedBy": "Zaufali nam",
-  "trustItems": ["MODO", "LUMI", "KOVO", "NOMA", "ASPEKT"],
+  "trustItems": [],
   "image": "/assets/images/t001-nova/t001-nova-hero.webp",
   "imageAlt": "Strateg pracujący przy laptopie",
   "stats": [

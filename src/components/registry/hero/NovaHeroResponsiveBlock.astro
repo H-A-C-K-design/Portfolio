@@ -64,6 +64,7 @@ const stats = props.stats ?? fallback?.stats ?? [];
               {secondaryCTA && <Button href={secondaryCTA.href} variant="outline" size="lg" class="min-h-11 w-full font-semibold tracking-normal sm:w-auto md:text-[clamp(1rem,1.15vw,1.2rem)]">{secondaryCTA.label}</Button>}
             </div>
           </div>
+          {trustItems.length > 0 && (
           <div class="grid grid-cols-3 items-center gap-x-3 gap-y-4 pt-6 text-[color-mix(in_oklab,var(--color-on-surface)_40%,var(--color-surface))] md:gap-x-2 md:pt-6 lg:flex lg:w-full lg:flex-nowrap lg:justify-between lg:gap-x-4 lg:gap-y-3 lg:pt-4" data-motion="fade" style="--motion-delay: 480ms">
             <Text tag="span" variant="feature-body-sm" class="text-[0.68rem] font-medium tracking-[0.06em] opacity-[0.78] md:text-[0.72rem] lg:text-[clamp(0.8rem,0.9vw,1rem)]">{trustedBy}</Text>
             {trustItems.map((item, index) => (
@@ -78,6 +79,7 @@ const stats = props.stats ?? fallback?.stats ?? [];
               >{item}</Text>
             ))}
           </div>
+          )}
         </div>
 
         <div class="relative min-w-0 mb-4 h-[clamp(22rem,92vw,31rem)] md:mb-0 md:h-[clamp(30rem,62vw,38rem)] md:pb-6 md:pr-6 lg:mb-[clamp(0.75rem,1vw,1rem)] lg:h-[clamp(36rem,45vw,48rem)] lg:pb-[clamp(1rem,2vw,2rem)] lg:pr-[clamp(1.25rem,3vw,3rem)]" data-motion="fade" style="--motion-delay: 120ms">

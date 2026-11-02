@@ -42,7 +42,7 @@
         "primaryCTA": { "label": "Zobacz projekty", "href": "#projekty" },
         "secondaryCTA": { "label": "Skontaktuj się", "href": "mailto:durgeshgaikwad363@gmail.com" },
         "trustedBy": "Technologie",
-        "trustItems": ["Python", "Linux", "Kali", "GitHub", "Network"],
+        "trustItems": [],
         "image": "/assets/images/t001-nova/t001-nova-hero.webp",
         "imageAlt": "Durgesh Gaikwad – Cybersecurity Portfolio",
         "stats": [
@@ -58,8 +58,8 @@
         "linkLabel": "Zobacz na GitHub",
         "linkHref": "https://github.com/H-A-C-K-design",
         "items": [
-          { "category": "Cybersecurity Tool", "title": "Free-Pro-Tool", "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp", "alt": "Free Pro Tool – narzędzie do cyberbezpieczeństwa" },
-          { "category": "Network Security", "title": "NET_SCAN", "image": "/assets/images/t001-nova/t001-nova-project-building.webp", "alt": "NET_SCAN – narzędzie do skanowania sieci" }
+          { "category": "Blockchain", "title": "BLOCKCHAIN", "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp", "alt": "BLOCKCHAIN – projekt blockchain", "href": "https://github.com/H-A-C-K-design/BLOCKCHAIN-.git" },
+          { "category": "Network Security", "title": "Vulnerability Scanner", "image": "/assets/images/t001-nova/t001-nova-project-building.webp", "alt": "Vulnerability Scanner – narzędzie do skanowania podatności", "href": "https://github.com/H-A-C-K-design/Vulnerability-Scanner.git" }
         ]
       },
       "nova-services": {
@@ -83,9 +83,7 @@
         "teamCount": "19+",
         "teamLabel": "repozytoriów na GitHub",
         "teamAriaLabel": "O Durgesh Gaikwad",
-        "teamAvatars": [
-          { "src": "/assets/images/t001-nova/t001-nova-avatar-01@220.webp", "alt": "Durgesh Gaikwad" }
-        ],
+        "teamAvatars": [],
         "buttonLabel": "Zobacz GitHub",
         "buttonHref": "https://github.com/H-A-C-K-design"
       },
@@ -106,9 +104,13 @@
         "tagline": "Certyfikaty",
         "avatarAltPrefix": "Certyfikat",
         "items": [
-          { "quote": "Certyfikat z cyberbezpieczeństwa potwierdzający znajomość zasad ochrony systemów informatycznych, analizy zagrożeń i najlepszych praktyk w dziedzinie bezpieczeństwa.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "Cybersecurity Certificate", "avatar": "https://i.pravatar.cc/150?u=durgesh-gaikwad" },
-          { "quote": "Praktyczne szkolenie z etycznego hackingu obejmujące techniki testów penetracyjnych, analizy sieci i identyfikacji podatności w systemach.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "Ethical Hacking Training", "avatar": "https://i.pravatar.cc/150?u=durgesh-hack" },
-          { "quote": "Ukończone projekty open-source na GitHub: Free-Pro-Tool, NET_SCAN i Health-Care-System – demonstrują praktyczne umiejętności w cybersecurity i programowaniu.", "author": "GitHub Portfolio", "initials": "GH", "role": "19+ Public Repositories", "avatar": "https://i.pravatar.cc/150?u=durgesh-github" }
+          { "quote": "NULL ORIGIN CTF 2026 — Międzynarodowe 24-godzinne zawody Capture The Flag. Zorganizowane przez CyberHX we współpracy z INE, OffSec i Altered Security.", "author": "Durgesh Amol Gaikwad", "initials": "DG", "role": "NULL ORIGIN CTF 2026 · 19 wrz 2026", "avatar": "" },
+          { "quote": "Innovate 4 Impact: AI4SDG Global Hackathon 2026 — IEEE WIE Affinity Group, Bharati Vidyapeeth (DU) College of Engineering, Pune.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "AI4SDG Hackathon 2026 · 12 wrz 2026", "avatar": "" },
+          { "quote": "CTRL FREAK Hackathon powered by HackBriven — wyróżnienie za outstanding performance, innowacyjność i zaangażowanie.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "CTRL FREAK Hackathon · paź 2026", "avatar": "" },
+          { "quote": "Jaipur Cybrathon 2K25 — członek zespołu Secureshell. Wyróżnienie za innowacyjność, pracę zespołową i zaangażowanie. Suresh Gyan Vihar University.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "Jaipur Cybrathon 2K25", "avatar": "" },
+          { "quote": "Illuminate Entrepreneurship Bootcamp — ukończony w Bhonsala Military College we współpracy z E-Cell, IIT Bombay.", "author": "Durgesh Amol Gaikwad", "initials": "DG", "role": "E-Cell IIT Bombay · lis 2025", "avatar": "" },
+          { "quote": "AgentX24 — 24-godzinny Hackathon zorganizowany przez Wydział Informatyki, Sanjivani University.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "AgentX24 Hackathon · sie 2026", "avatar": "" },
+          { "quote": "Smart India Hackathon 2025 — etap wewnętrzny, Sanjivani University. Prezentacja pomysłu z zespołem Farm Vision, 13–14 września 2025.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "Smart India Hackathon 2025", "avatar": "" }
         ]
       }
     },
@@ -181,7 +183,7 @@
         "primaryCTA": { "label": "View my projects", "href": "#projects" },
         "secondaryCTA": { "label": "Get in touch", "href": "mailto:durgeshgaikwad363@gmail.com" },
         "trustedBy": "Technologies",
-        "trustItems": ["Python", "Linux", "Kali", "GitHub", "Network"],
+        "trustItems": [],
         "image": "/assets/images/t001-nova/t001-nova-hero.webp",
         "imageAlt": "Durgesh Gaikwad – Cybersecurity Portfolio",
         "stats": [
@@ -197,8 +199,8 @@
         "linkLabel": "View on GitHub",
         "linkHref": "https://github.com/H-A-C-K-design",
         "items": [
-          { "category": "Cybersecurity Tool", "title": "Free-Pro-Tool", "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp", "alt": "Free Pro Tool – cybersecurity protection toolkit" },
-          { "category": "Network Security", "title": "NET_SCAN", "image": "/assets/images/t001-nova/t001-nova-project-building.webp", "alt": "NET_SCAN – network scanning utility" }
+          { "category": "Blockchain", "title": "BLOCKCHAIN", "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp", "alt": "BLOCKCHAIN – blockchain project", "href": "https://github.com/H-A-C-K-design/BLOCKCHAIN-.git" },
+          { "category": "Network Security", "title": "Vulnerability Scanner", "image": "/assets/images/t001-nova/t001-nova-project-building.webp", "alt": "Vulnerability Scanner – network vulnerability scanning tool", "href": "https://github.com/H-A-C-K-design/Vulnerability-Scanner.git" }
         ]
       },
       "nova-services": {
@@ -222,9 +224,7 @@
         "teamCount": "19+",
         "teamLabel": "repositories on GitHub",
         "teamAriaLabel": "About Durgesh Gaikwad",
-        "teamAvatars": [
-          { "src": "/assets/images/t001-nova/t001-nova-avatar-01@220.webp", "alt": "Durgesh Gaikwad" }
-        ],
+        "teamAvatars": [],
         "buttonLabel": "View GitHub",
         "buttonHref": "https://github.com/H-A-C-K-design"
       },
@@ -245,13 +245,13 @@
         "tagline": "Certifications",
         "avatarAltPrefix": "Certificate",
         "items": [
-          { "quote": "NULL ORIGIN CTF 2026 — International 24-Hour Capture The Flag Competition. Organised by CyberHX in collaboration with INE, OffSec and Altered Security.", "author": "Durgesh Amol Gaikwad", "initials": "DG", "role": "NULL ORIGIN CTF 2026 · 19 Sep 2026", "avatar": "https://i.pravatar.cc/150?u=durgesh-ctf" },
-          { "quote": "Innovate 4 Impact: AI4SDG Global Hackathon 2026 — IEEE WIE Affinity Group, Bharati Vidyapeeth (DU) College of Engineering, Pune.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "AI4SDG Hackathon 2026 · 12 Sep 2026", "avatar": "https://i.pravatar.cc/150?u=durgesh-ai4sdg" },
-          { "quote": "CTRL FREAK Hackathon powered by HackBriven at York IE, Ahmedabad — recognised for outstanding performance, innovation and dedication.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "CTRL FREAK Hackathon · Oct 2026", "avatar": "https://i.pravatar.cc/150?u=durgesh-ctrlfreak" },
-          { "quote": "Jaipur Cybrathon 2K25 — member of Team Secureshell. Recognised for innovation, teamwork and dedication by Suresh Gyan Vihar University.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "Jaipur Cybrathon 2K25", "avatar": "https://i.pravatar.cc/150?u=durgesh-cybrathon" },
-          { "quote": "Illuminate Entrepreneurship Bootcamp — successfully completed at Bhonsala Military College in association with E-Cell, IIT Bombay.", "author": "Durgesh Amol Gaikwad", "initials": "DG", "role": "E-Cell IIT Bombay · Nov 2025", "avatar": "https://i.pravatar.cc/150?u=durgesh-iitb" },
-          { "quote": "AgentX24 — 24-Hour Hackathon organised by the Department of Computer Science & Engineering, Sanjivani University.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "AgentX24 Hackathon · Aug 2026", "avatar": "https://i.pravatar.cc/150?u=durgesh-agentx" },
-          { "quote": "Smart India Hackathon 2025 Internal Round — Team Farm Vision, Sanjivani University. Idea Presentation on 13–14 September 2025.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "Smart India Hackathon 2025", "avatar": "https://i.pravatar.cc/150?u=durgesh-sih" }
+          { "quote": "NULL ORIGIN CTF 2026 — International 24-Hour Capture The Flag Competition. Organised by CyberHX in collaboration with INE, OffSec and Altered Security.", "author": "Durgesh Amol Gaikwad", "initials": "DG", "role": "NULL ORIGIN CTF 2026 · 19 Sep 2026", "avatar": "" },
+          { "quote": "Innovate 4 Impact: AI4SDG Global Hackathon 2026 — IEEE WIE Affinity Group, Bharati Vidyapeeth (DU) College of Engineering, Pune.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "AI4SDG Hackathon 2026 · 12 Sep 2026", "avatar": "" },
+          { "quote": "CTRL FREAK Hackathon powered by HackBriven at York IE, Ahmedabad — recognised for outstanding performance, innovation and dedication.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "CTRL FREAK Hackathon · Oct 2026", "avatar": "" },
+          { "quote": "Jaipur Cybrathon 2K25 — member of Team Secureshell. Recognised for innovation, teamwork and dedication by Suresh Gyan Vihar University.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "Jaipur Cybrathon 2K25", "avatar": "" },
+          { "quote": "Illuminate Entrepreneurship Bootcamp — successfully completed at Bhonsala Military College in association with E-Cell, IIT Bombay.", "author": "Durgesh Amol Gaikwad", "initials": "DG", "role": "E-Cell IIT Bombay · Nov 2025", "avatar": "" },
+          { "quote": "AgentX24 — 24-Hour Hackathon organised by the Department of Computer Science & Engineering, Sanjivani University.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "AgentX24 Hackathon · Aug 2026", "avatar": "" },
+          { "quote": "Smart India Hackathon 2025 Internal Round — Team Farm Vision, Sanjivani University. Idea Presentation on 13–14 September 2025.", "author": "Durgesh Gaikwad", "initials": "DG", "role": "Smart India Hackathon 2025", "avatar": "" }
         ]
       }
     },

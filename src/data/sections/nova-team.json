@@ -7,9 +7,7 @@
   "teamCount": "19+",
   "teamLabel": "repositories on GitHub",
   "teamAriaLabel": "About Durgesh Gaikwad",
-  "teamAvatars": [
-    { "src": "/assets/images/t001-nova/t001-nova-avatar-01@220.webp", "alt": "Durgesh Gaikwad" }
-  ],
+  "teamAvatars": [],
   "buttonLabel": "View GitHub",
   "buttonHref": "https://github.com/H-A-C-K-design"
 }
